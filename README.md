@@ -2,7 +2,7 @@
 
 I like working on projects that improve people's lives.
 
-I have 20+ years of experience as a software engineer, with my primary expertise being location-related apps and Global Navigation Satellite Systems (GNSS) such as GPS.
+I have 20+ years of experience as a software engineer in the R&D sector, with my primary expertise being location-related apps and Global Navigation Satellite Systems (GNSS) such as GPS.
 
 I've had the honor of being the lead software engineer for multiple open-source Android apps with 1M+ downloads that have been rated 4.5+ stars by users over many years.
 
