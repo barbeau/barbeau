@@ -2,6 +2,10 @@
 
 I like working on projects that improve people's lives.
 
+I have 20+ years of experience as a software engineer, with my primary expertise being location-related apps and Global Navigation Satellite Systems (GNSS) such as GPS.
+
+I've had the honor of being the lead software engineer for multiple open-source Android apps with 1M+ downloads that have been rated 4.5+ stars by users over many years.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barbeau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barbeau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
